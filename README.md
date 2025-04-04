@@ -1,12 +1,11 @@
 ## Hello there 👋
-<br>
 -💬 I'm a high school student in Brazil who really likes programming (mainly Web)
 <br>
 -❤️ Web Programming
 <br>
 -📫 josevictoroficial76@gmail.com
 <br>
--🏫 Computer Technician
+-🏫 High School
 
 ## Skills 🛠️
 <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />   🟩🟩⬛ INTERMEDIARY
