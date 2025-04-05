@@ -1,5 +1,5 @@
 ## Hello there 👋
-💬 I'm a high school student in Brazil who really likes programming (mainly Web)
+💬 I'm a high school student in Brazil who really likes programming 
 <br>
 ❤️ Web Programming
 <br>
