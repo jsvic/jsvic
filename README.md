@@ -8,13 +8,15 @@
 🏫 Computer Engineering student at Universidade Federal do Ceará (UFC)
 
 ## Skills 🛠️
-<img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//react/react-original.svg" width="40" height="40" />   🟩🟩⬛ INTERMEDIARY
+<img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//react/react-original.svg" width="40" height="40" /> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>    🟩🟩⬛ INTERMEDIARY
 
-<img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>  🟩🟩⬛ INTERMEDIARY
-
-<img  loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" idth="40" height="40"/>   🟩🟩⬛ INTERMEDIARY
+<img  loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" idth="40" height="40"/> <img  loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40"/>   🟩🟩⬛ INTERMEDIARY
 
 <img  loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>   🟩⬛⬛ BASIC
+
+<img  loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/>   🟩⬛⬛ BASIC
+
+<img  loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>   🟩⬛⬛ BASIC
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" />   🟩⬛⬛ BASIC
 
